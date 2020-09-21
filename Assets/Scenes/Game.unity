@@ -360,15 +360,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 405247849398921433, guid: 54333d17ec032a1448ce614a8b4293d0, type: 3}
       propertyPath: _speed
-      value: 5
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 1840801951286184460, guid: 54333d17ec032a1448ce614a8b4293d0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.7
+      value: -11.35
       objectReference: {fileID: 0}
     - target: {fileID: 1840801951286184460, guid: 54333d17ec032a1448ce614a8b4293d0, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -3.49
       objectReference: {fileID: 0}
     - target: {fileID: 1840801951286184460, guid: 54333d17ec032a1448ce614a8b4293d0, type: 3}
       propertyPath: m_LocalPosition.z
