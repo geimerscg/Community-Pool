@@ -39,13 +39,13 @@ public class Player : MonoBehaviour
             transform.position = new Vector3(transform.position.x, -5.74f, 0);
         }
 
-        if (transform.position.x >= 11.35f)
+        if (transform.position.x >= 11.67f)
         {
-            transform.position = new Vector3(11.35f, transform.position.y, 0);
+            transform.position = new Vector3(11.67f, transform.position.y, 0);
         }
-        else if (transform.position.x <= -11.35f) 
+        else if (transform.position.x <= -11.67f) 
         {
-            transform.position = new Vector3(-11.35f, transform.position.y, 0);
+            transform.position = new Vector3(-11.67f, transform.position.y, 0);
         }
 
 
